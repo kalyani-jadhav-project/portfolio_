@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Kalyani Pandit Jadhav** — Java Full Stack Developer | AI Enthusiast | Open Source Contributor.
 
-🔗 **Live Demo:** [Add your Vercel/Render URL here once deployed]
+🔗 **Live Demo:** https://portfolio-lbxj.vercel.app/
 
 ---
 
